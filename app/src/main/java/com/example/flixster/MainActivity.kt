@@ -46,6 +46,6 @@ class MainActivity : AppCompatActivity() {
                     Log.e(TAG, "Encountered exception $e")
                 }
             }
-        })
+        } )
     }
 }
